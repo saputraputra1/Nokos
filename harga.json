@@ -1,0 +1,18 @@
+{
+  "indonesia": {
+    "whatsapp": {
+      "harga_asli": 0.10,
+      "harga_jual": 3000
+    },
+    "telegram": {
+      "harga_asli": 0.12,
+      "harga_jual": 3500
+    }
+  },
+  "russia": {
+    "whatsapp": {
+      "harga_asli": 0.05,
+      "harga_jual": 2000
+    }
+  }
+}
